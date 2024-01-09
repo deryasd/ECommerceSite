@@ -1,15 +1,3 @@
-C:\Users\esind\Desktop\ECommerceSite\ECommerceSite\Services\Catalog\ECommerceSite.Services.Catalog.Models\bin\Debug\net7.0\ECommerceSite.Services.Catalog.Models.deps.json
-C:\Users\esind\Desktop\ECommerceSite\ECommerceSite\Services\Catalog\ECommerceSite.Services.Catalog.Models\bin\Debug\net7.0\ECommerceSite.Services.Catalog.Models.dll
-C:\Users\esind\Desktop\ECommerceSite\ECommerceSite\Services\Catalog\ECommerceSite.Services.Catalog.Models\bin\Debug\net7.0\ECommerceSite.Services.Catalog.Models.pdb
-C:\Users\esind\Desktop\ECommerceSite\ECommerceSite\Services\Catalog\ECommerceSite.Services.Catalog.Models\obj\Debug\net7.0\ECommerceSite.Services.Catalog.Models.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\esind\Desktop\ECommerceSite\ECommerceSite\Services\Catalog\ECommerceSite.Services.Catalog.Models\obj\Debug\net7.0\ECommerceSite.Services.Catalog.Models.AssemblyInfoInputs.cache
-C:\Users\esind\Desktop\ECommerceSite\ECommerceSite\Services\Catalog\ECommerceSite.Services.Catalog.Models\obj\Debug\net7.0\ECommerceSite.Services.Catalog.Models.AssemblyInfo.cs
-C:\Users\esind\Desktop\ECommerceSite\ECommerceSite\Services\Catalog\ECommerceSite.Services.Catalog.Models\obj\Debug\net7.0\ECommerceSite.Services.Catalog.Models.csproj.CoreCompileInputs.cache
-C:\Users\esind\Desktop\ECommerceSite\ECommerceSite\Services\Catalog\ECommerceSite.Services.Catalog.Models\obj\Debug\net7.0\ECommerceSite.Services.Catalog.Models.sourcelink.json
-C:\Users\esind\Desktop\ECommerceSite\ECommerceSite\Services\Catalog\ECommerceSite.Services.Catalog.Models\obj\Debug\net7.0\ECommerceSite.Services.Catalog.Models.dll
-C:\Users\esind\Desktop\ECommerceSite\ECommerceSite\Services\Catalog\ECommerceSite.Services.Catalog.Models\obj\Debug\net7.0\refint\ECommerceSite.Services.Catalog.Models.dll
-C:\Users\esind\Desktop\ECommerceSite\ECommerceSite\Services\Catalog\ECommerceSite.Services.Catalog.Models\obj\Debug\net7.0\ECommerceSite.Services.Catalog.Models.pdb
-C:\Users\esind\Desktop\ECommerceSite\ECommerceSite\Services\Catalog\ECommerceSite.Services.Catalog.Models\obj\Debug\net7.0\ref\ECommerceSite.Services.Catalog.Models.dll
 C:\Users\esind\Desktop\ECommerceSite\Services\Catalog\ECommerceSite.Services.Catalog.Models\bin\Debug\net7.0\ECommerceSite.Services.Catalog.Models.deps.json
 C:\Users\esind\Desktop\ECommerceSite\Services\Catalog\ECommerceSite.Services.Catalog.Models\bin\Debug\net7.0\ECommerceSite.Services.Catalog.Models.dll
 C:\Users\esind\Desktop\ECommerceSite\Services\Catalog\ECommerceSite.Services.Catalog.Models\bin\Debug\net7.0\ECommerceSite.Services.Catalog.Models.pdb

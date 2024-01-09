@@ -1,7 +1,6 @@
 ﻿using AutoMapper;
 using ECommerceSite.Services.Catalog.API.Dtos;
 using ECommerceSite.Services.Catalog.DataAccess.Data;
-using ECommerceSite.Services.Catalog.Dtos;
 using ECommerceSite.Services.Catalog.Models.Models;
 using ECommerceSite.Shared.Dtos;
 using Microsoft.EntityFrameworkCore;
