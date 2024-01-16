@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ECommerceSite.Services.Basket.API.props" />
+</Project>

@@ -50,3 +50,10 @@ C:\Users\esind\Desktop\ECommerceSite\Services\Catalog\ECommerceSite.Services.Cat
 C:\Users\esind\Desktop\ECommerceSite\Services\Catalog\ECommerceSite.Services.Catalog.API\obj\Debug\net7.0\ECommerceSite.Services.Catalog.API.genruntimeconfig.cache
 C:\Users\esind\Desktop\ECommerceSite\Services\Catalog\ECommerceSite.Services.Catalog.API\obj\Debug\net7.0\ref\ECommerceSite.Services.Catalog.API.dll
 C:\Users\esind\Desktop\ECommerceSite\Services\Catalog\ECommerceSite.Services.Catalog.API\obj\Debug\net7.0\ECommerceSite.Services.Catalog.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\esind\Desktop\ECommerceSite\Services\Catalog\ECommerceSite.Services.Catalog.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\esind\Desktop\ECommerceSite\Services\Catalog\ECommerceSite.Services.Catalog.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\esind\Desktop\ECommerceSite\Services\Catalog\ECommerceSite.Services.Catalog.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\esind\Desktop\ECommerceSite\Services\Catalog\ECommerceSite.Services.Catalog.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\esind\Desktop\ECommerceSite\Services\Catalog\ECommerceSite.Services.Catalog.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\esind\Desktop\ECommerceSite\Services\Catalog\ECommerceSite.Services.Catalog.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\esind\Desktop\ECommerceSite\Services\Catalog\ECommerceSite.Services.Catalog.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
