@@ -52,6 +52,8 @@ C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bi
 C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bin\Debug\netcoreapp3.1\Serilog.dll
 C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
 C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
@@ -81,6 +83,8 @@ C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bi
 C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bin\Debug\netcoreapp3.1\ECommerceSite.Shared.dll
+C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bin\Debug\netcoreapp3.1\ECommerceSite.Shared.pdb
 C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\obj\Debug\netcoreapp3.1\ECommmerce.IdentityServer.csproj.AssemblyReference.cache
 C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\obj\Debug\netcoreapp3.1\ECommmerce.IdentityServer.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\obj\Debug\netcoreapp3.1\ECommmerce.IdentityServer.AssemblyInfoInputs.cache
@@ -127,7 +131,3 @@ C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\ob
 C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\obj\Debug\netcoreapp3.1\ECommmerce.IdentityServer.dll
 C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\obj\Debug\netcoreapp3.1\ECommmerce.IdentityServer.pdb
 C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\obj\Debug\netcoreapp3.1\ECommmerce.IdentityServer.genruntimeconfig.cache
-C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bin\Debug\netcoreapp3.1\Npgsql.dll
-C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bin\Debug\netcoreapp3.1\ECommerceSite.Shared.dll
-C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bin\Debug\netcoreapp3.1\ECommerceSite.Shared.pdb

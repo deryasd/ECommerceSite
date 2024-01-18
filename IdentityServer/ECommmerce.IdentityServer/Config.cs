@@ -15,7 +15,8 @@ namespace ECommmerce.IdentityServer
         {
              new ApiResource("resource_catalog"){Scopes={"catalog_fullpermission"}},
              new ApiResource("resource_basket"){Scopes={"basket_fullpermission"}},
-            new ApiResource(IdentityServerConstants.LocalApi.ScopeName)
+             new ApiResource("resource_order"){Scopes={"order_fullpermission"}},
+             new ApiResource(IdentityServerConstants.LocalApi.ScopeName)
         };
         public static IEnumerable<IdentityResource> IdentityResources =>
                    new IdentityResource[]
@@ -31,6 +32,7 @@ namespace ECommmerce.IdentityServer
             {
                 new ApiScope("catalog_fullpermission","Catalog API için full erişim"),
                 new ApiScope("basket_fullpermission","Basket API için full erişim"),
+                new ApiScope("order_fullpermission","Order API için full erişim"),
                 new ApiScope(IdentityServerConstants.LocalApi.ScopeName)
             };
 
@@ -52,7 +54,7 @@ namespace ECommmerce.IdentityServer
                     AllowOfflineAccess=true,
                     ClientSecrets= {new Secret("secret".Sha256())},
                     AllowedGrantTypes= GrantTypes.ResourceOwnerPassword,
-                    AllowedScopes={ "basket_fullpermission",IdentityServerConstants.StandardScopes.Email, IdentityServerConstants.StandardScopes.OpenId,IdentityServerConstants.StandardScopes.Profile, IdentityServerConstants.StandardScopes.OfflineAccess, IdentityServerConstants.LocalApi.ScopeName,"roles" },
+                    AllowedScopes={ "basket_fullpermission", "order_fullpermission", IdentityServerConstants.StandardScopes.Email, IdentityServerConstants.StandardScopes.OpenId, IdentityServerConstants.StandardScopes.Profile, IdentityServerConstants.StandardScopes.OfflineAccess, IdentityServerConstants.LocalApi.ScopeName,"roles" },
                     AccessTokenLifetime=1*60*60,
                     RefreshTokenExpiration=TokenExpiration.Absolute,
                     AbsoluteRefreshTokenLifetime= (int) (DateTime.Now.AddDays(60)- DateTime.Now).TotalSeconds,

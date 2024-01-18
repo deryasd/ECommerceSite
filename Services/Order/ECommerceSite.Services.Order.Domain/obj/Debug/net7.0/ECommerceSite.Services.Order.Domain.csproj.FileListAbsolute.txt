@@ -1,0 +1,16 @@
+C:\Users\esind\Desktop\ECommerceSite\Services\Order\ECommerceSite.Services.Order.Domain\bin\Debug\net7.0\ECommerceSite.Services.Order.Domain.deps.json
+C:\Users\esind\Desktop\ECommerceSite\Services\Order\ECommerceSite.Services.Order.Domain\bin\Debug\net7.0\ECommerceSite.Services.Order.Domain.dll
+C:\Users\esind\Desktop\ECommerceSite\Services\Order\ECommerceSite.Services.Order.Domain\bin\Debug\net7.0\ECommerceSite.Services.Order.Domain.pdb
+C:\Users\esind\Desktop\ECommerceSite\Services\Order\ECommerceSite.Services.Order.Domain\bin\Debug\net7.0\ECommerceSite.Services.Order.Domain.Core.dll
+C:\Users\esind\Desktop\ECommerceSite\Services\Order\ECommerceSite.Services.Order.Domain\bin\Debug\net7.0\ECommerceSite.Services.Order.Domain.Core.pdb
+C:\Users\esind\Desktop\ECommerceSite\Services\Order\ECommerceSite.Services.Order.Domain\obj\Debug\net7.0\ECommerceSite.Services.Order.Domain.csproj.AssemblyReference.cache
+C:\Users\esind\Desktop\ECommerceSite\Services\Order\ECommerceSite.Services.Order.Domain\obj\Debug\net7.0\ECommerceSite.Services.Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esind\Desktop\ECommerceSite\Services\Order\ECommerceSite.Services.Order.Domain\obj\Debug\net7.0\ECommerceSite.Services.Order.Domain.AssemblyInfoInputs.cache
+C:\Users\esind\Desktop\ECommerceSite\Services\Order\ECommerceSite.Services.Order.Domain\obj\Debug\net7.0\ECommerceSite.Services.Order.Domain.AssemblyInfo.cs
+C:\Users\esind\Desktop\ECommerceSite\Services\Order\ECommerceSite.Services.Order.Domain\obj\Debug\net7.0\ECommerceSite.Services.Order.Domain.csproj.CoreCompileInputs.cache
+C:\Users\esind\Desktop\ECommerceSite\Services\Order\ECommerceSite.Services.Order.Domain\obj\Debug\net7.0\ECommerceSite.Services.Order.Domain.sourcelink.json
+C:\Users\esind\Desktop\ECommerceSite\Services\Order\ECommerceSite.Services.Order.Domain\obj\Debug\net7.0\ECommerceSite.Services.Order.Domain.csproj.CopyComplete
+C:\Users\esind\Desktop\ECommerceSite\Services\Order\ECommerceSite.Services.Order.Domain\obj\Debug\net7.0\ECommerceSite.Services.Order.Domain.dll
+C:\Users\esind\Desktop\ECommerceSite\Services\Order\ECommerceSite.Services.Order.Domain\obj\Debug\net7.0\refint\ECommerceSite.Services.Order.Domain.dll
+C:\Users\esind\Desktop\ECommerceSite\Services\Order\ECommerceSite.Services.Order.Domain\obj\Debug\net7.0\ECommerceSite.Services.Order.Domain.pdb
+C:\Users\esind\Desktop\ECommerceSite\Services\Order\ECommerceSite.Services.Order.Domain\obj\Debug\net7.0\ref\ECommerceSite.Services.Order.Domain.dll

@@ -1,2 +1,5 @@
 Services
  -catalogApi => 5011
+ -basketApi => 5012
+ -orderApi => 5013
+-IdentityServer => 5001

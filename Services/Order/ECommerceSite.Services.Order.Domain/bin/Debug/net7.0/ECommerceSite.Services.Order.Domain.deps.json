@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ECommerceSite.Services.Order.Domain/1.0.0": {
+        "dependencies": {
+          "ECommerceSite.Services.Order.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "ECommerceSite.Services.Order.Domain.dll": {}
+        }
+      },
+      "ECommerceSite.Services.Order.Domain.Core/1.0.0": {
+        "runtime": {
+          "ECommerceSite.Services.Order.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ECommerceSite.Services.Order.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ECommerceSite.Services.Order.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
