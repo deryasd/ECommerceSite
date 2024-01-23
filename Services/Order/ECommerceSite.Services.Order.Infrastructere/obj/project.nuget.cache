@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0yZkjwFPEsWBripHOduq6QKYfAVaHmqcln1b68NYHVu0iBmAVISiBAmsSqWd0iwyDLcSc8jeVg2zoyy9NS2gGA==",
+  "dgSpecHash": "xVmFUH9Tk92jkg54mwRR69Erz7RHxHjaLmsf1+I8SNyTLfuQnNRcKyC7H0H8bSZ69taHtGz7hvy/wFLnWSUdvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Infrastructere\\ECommerceSite.Services.Order.Infrastructere.csproj",
+  "projectFilePath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Infrastructere\\ECommerceSite.Services.Order.Infrastructere.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\esind\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\esind\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",

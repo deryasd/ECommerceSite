@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\esind\\Desktop\\ECommerceSite\\IdentityServer\\ECommmerce.IdentityServer\\ECommmerce.IdentityServer.csproj": {}
+    "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\IdentityServer\\ECommmerce.IdentityServer\\ECommmerce.IdentityServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\esind\\Desktop\\ECommerceSite\\IdentityServer\\ECommmerce.IdentityServer\\ECommmerce.IdentityServer.csproj": {
+    "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\IdentityServer\\ECommmerce.IdentityServer\\ECommmerce.IdentityServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerceSite\\IdentityServer\\ECommmerce.IdentityServer\\ECommmerce.IdentityServer.csproj",
+        "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\IdentityServer\\ECommmerce.IdentityServer\\ECommmerce.IdentityServer.csproj",
         "projectName": "ECommmerce.IdentityServer",
-        "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\IdentityServer\\ECommmerce.IdentityServer\\ECommmerce.IdentityServer.csproj",
+        "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\IdentityServer\\ECommmerce.IdentityServer\\ECommmerce.IdentityServer.csproj",
         "packagesPath": "C:\\Users\\esind\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\IdentityServer\\ECommmerce.IdentityServer\\obj\\",
+        "outputPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\IdentityServer\\ECommmerce.IdentityServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\esind\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\esind\\Desktop\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj": {
-                "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj"
+              "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj": {
+                "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj"
               }
             }
           }
@@ -106,14 +106,14 @@
         }
       }
     },
-    "C:\\Users\\esind\\Desktop\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj": {
+    "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj",
         "projectName": "ECommerceSite.Shared",
-        "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj",
+        "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj",
         "packagesPath": "C:\\Users\\esind\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Shared\\ECommerceSite.Shared\\obj\\",
+        "outputPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Shared\\ECommerceSite.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\esind\\AppData\\Roaming\\NuGet\\NuGet.Config",

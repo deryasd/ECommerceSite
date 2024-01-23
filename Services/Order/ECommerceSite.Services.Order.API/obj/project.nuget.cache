@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m0rSURLPuP2/y4nZ4VolwwWfzAmfs3Zfl6U/CH5DUSucNHuTiBGFzIxm/P3hSmXmBXdlTgjr7TFiGzfo+6+g0A==",
+  "dgSpecHash": "LTCFlPA29AHyTeQe1MsjvfuD2X/Pc9KbdZ1Svj531zWY1LjYetvX6vwfDz3cclt3VHCihQu2t2eh9x/WJg6fqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.API\\ECommerceSite.Services.Order.API.csproj",
+  "projectFilePath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.API\\ECommerceSite.Services.Order.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\esind\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\esind\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

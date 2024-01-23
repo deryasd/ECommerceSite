@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AYJzXcWQLDrH3lDuRd7jyWYmCc4odp0pEMlqRxyM95dIaHSq3SM7fEUEzE55dQzhImAar5HV1PxL/GP2BbRsXQ==",
+  "dgSpecHash": "P5WXPezWa7FbwKtoCEjXlp9JqXGpHYeZ8apALcQNUIw4RL/wfC5rwmGn2mLnVD8SGAj1FsxzIbaj3TnKjHgXFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Basket\\ECommerceSite.Services.Basket.API\\ECommerceSite.Services.Basket.API.csproj",
+  "projectFilePath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Basket\\ECommerceSite.Services.Basket.API\\ECommerceSite.Services.Basket.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\esind\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.0\\microsoft.aspnetcore.authentication.jwtbearer.7.0.0.nupkg.sha512",
     "C:\\Users\\esind\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",

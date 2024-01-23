@@ -1082,11 +1082,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Basket\\ECommerceSite.Services.Basket.API\\ECommerceSite.Services.Basket.API.csproj",
+      "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Basket\\ECommerceSite.Services.Basket.API\\ECommerceSite.Services.Basket.API.csproj",
       "projectName": "ECommerceSite.Services.Basket.API",
-      "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Basket\\ECommerceSite.Services.Basket.API\\ECommerceSite.Services.Basket.API.csproj",
+      "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Basket\\ECommerceSite.Services.Basket.API\\ECommerceSite.Services.Basket.API.csproj",
       "packagesPath": "C:\\Users\\esind\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Basket\\ECommerceSite.Services.Basket.API\\obj\\",
+      "outputPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Basket\\ECommerceSite.Services.Basket.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\esind\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1103,8 +1103,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\esind\\Desktop\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj": {
-              "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj"
+            "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj": {
+              "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj"
             }
           }
         }

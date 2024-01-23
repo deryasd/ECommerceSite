@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "al28gcT9/7XQxtEWNN7FB1KyT4lB5delcb2BkPkvQPjlhDmOfYWOoo9EQmbpclOLMBsPIsT45Wwh294NzttW9w==",
+  "dgSpecHash": "SSJzGmgg5p0OKaJDC/WzB+tCAvpJcxHOpoSoxgu5qM9YLRBwUOvRHYvqUJ9AumYRvNmrEJ/ZGLEB922D8Ls9AQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\IdentityServer\\ECommmerce.IdentityServer\\ECommmerce.IdentityServer.csproj",
+  "projectFilePath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\IdentityServer\\ECommmerce.IdentityServer\\ECommmerce.IdentityServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\esind\\.nuget\\packages\\identitymodel\\4.3.0\\identitymodel.4.3.0.nupkg.sha512",
     "C:\\Users\\esind\\.nuget\\packages\\identityserver4\\4.0.0\\identityserver4.4.0.0.nupkg.sha512",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain.Core\\ECommerceSite.Services.Order.Domain.Core.csproj",
+      "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain.Core\\ECommerceSite.Services.Order.Domain.Core.csproj",
       "projectName": "ECommerceSite.Services.Order.Domain.Core",
-      "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain.Core\\ECommerceSite.Services.Order.Domain.Core.csproj",
+      "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain.Core\\ECommerceSite.Services.Order.Domain.Core.csproj",
       "packagesPath": "C:\\Users\\esind\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain.Core\\obj\\",
+      "outputPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\esind\\AppData\\Roaming\\NuGet\\NuGet.Config",

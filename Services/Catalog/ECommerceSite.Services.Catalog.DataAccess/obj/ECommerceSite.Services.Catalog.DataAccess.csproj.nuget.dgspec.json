@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.DataAccess\\ECommerceSite.Services.Catalog.DataAccess.csproj": {}
+    "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.DataAccess\\ECommerceSite.Services.Catalog.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.DataAccess\\ECommerceSite.Services.Catalog.DataAccess.csproj": {
+    "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.DataAccess\\ECommerceSite.Services.Catalog.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.DataAccess\\ECommerceSite.Services.Catalog.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.DataAccess\\ECommerceSite.Services.Catalog.DataAccess.csproj",
         "projectName": "ECommerceSite.Services.Catalog.DataAccess",
-        "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.DataAccess\\ECommerceSite.Services.Catalog.DataAccess.csproj",
+        "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.DataAccess\\ECommerceSite.Services.Catalog.DataAccess.csproj",
         "packagesPath": "C:\\Users\\esind\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\esind\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.Models\\ECommerceSite.Services.Catalog.Models.csproj": {
-                "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.Models\\ECommerceSite.Services.Catalog.Models.csproj"
+              "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.Models\\ECommerceSite.Services.Catalog.Models.csproj": {
+                "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.Models\\ECommerceSite.Services.Catalog.Models.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.Models\\ECommerceSite.Services.Catalog.Models.csproj": {
+    "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.Models\\ECommerceSite.Services.Catalog.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.Models\\ECommerceSite.Services.Catalog.Models.csproj",
+        "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.Models\\ECommerceSite.Services.Catalog.Models.csproj",
         "projectName": "ECommerceSite.Services.Catalog.Models",
-        "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.Models\\ECommerceSite.Services.Catalog.Models.csproj",
+        "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.Models\\ECommerceSite.Services.Catalog.Models.csproj",
         "packagesPath": "C:\\Users\\esind\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.Models\\obj\\",
+        "outputPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\esind\\AppData\\Roaming\\NuGet\\NuGet.Config",

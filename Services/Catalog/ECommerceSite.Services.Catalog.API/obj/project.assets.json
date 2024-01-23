@@ -2052,11 +2052,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.API\\ECommerceSite.Services.Catalog.API.csproj",
+      "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.API\\ECommerceSite.Services.Catalog.API.csproj",
       "projectName": "ECommerceSite.Services.Catalog.API",
-      "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.API\\ECommerceSite.Services.Catalog.API.csproj",
+      "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.API\\ECommerceSite.Services.Catalog.API.csproj",
       "packagesPath": "C:\\Users\\esind\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.API\\obj\\",
+      "outputPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\esind\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2073,11 +2073,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.DataAccess\\ECommerceSite.Services.Catalog.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.DataAccess\\ECommerceSite.Services.Catalog.DataAccess.csproj"
+            "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.DataAccess\\ECommerceSite.Services.Catalog.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.DataAccess\\ECommerceSite.Services.Catalog.DataAccess.csproj"
             },
-            "C:\\Users\\esind\\Desktop\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj": {
-              "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj"
+            "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj": {
+              "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj"
             }
           }
         }

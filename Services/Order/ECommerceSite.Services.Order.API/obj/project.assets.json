@@ -2243,11 +2243,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.API\\ECommerceSite.Services.Order.API.csproj",
+      "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.API\\ECommerceSite.Services.Order.API.csproj",
       "projectName": "ECommerceSite.Services.Order.API",
-      "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.API\\ECommerceSite.Services.Order.API.csproj",
+      "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.API\\ECommerceSite.Services.Order.API.csproj",
       "packagesPath": "C:\\Users\\esind\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.API\\obj\\",
+      "outputPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\esind\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2264,17 +2264,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.API\\ECommerceSite.Services.Catalog.API.csproj": {
-              "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.API\\ECommerceSite.Services.Catalog.API.csproj"
+            "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.API\\ECommerceSite.Services.Catalog.API.csproj": {
+              "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.API\\ECommerceSite.Services.Catalog.API.csproj"
             },
-            "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Application\\ECommerceSite.Services.Order.Application.csproj": {
-              "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Application\\ECommerceSite.Services.Order.Application.csproj"
+            "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Application\\ECommerceSite.Services.Order.Application.csproj": {
+              "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Application\\ECommerceSite.Services.Order.Application.csproj"
             },
-            "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Infrastructere\\ECommerceSite.Services.Order.Infrastructere.csproj": {
-              "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Infrastructere\\ECommerceSite.Services.Order.Infrastructere.csproj"
+            "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Infrastructere\\ECommerceSite.Services.Order.Infrastructere.csproj": {
+              "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Infrastructere\\ECommerceSite.Services.Order.Infrastructere.csproj"
             },
-            "C:\\Users\\esind\\Desktop\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj": {
-              "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj"
+            "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj": {
+              "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj"
             }
           }
         }

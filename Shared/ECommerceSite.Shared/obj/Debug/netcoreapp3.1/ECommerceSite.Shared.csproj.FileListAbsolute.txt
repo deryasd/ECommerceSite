@@ -18,3 +18,13 @@ C:\Users\esind\Desktop\ECommerceSite\Shared\ECommerceSite.Shared\obj\Debug\netco
 C:\Users\esind\Desktop\ECommerceSite\Shared\ECommerceSite.Shared\obj\Debug\netcoreapp3.1\ECommerceSite.Shared.sourcelink.json
 C:\Users\esind\Desktop\ECommerceSite\Shared\ECommerceSite.Shared\obj\Debug\netcoreapp3.1\ECommerceSite.Shared.dll
 C:\Users\esind\Desktop\ECommerceSite\Shared\ECommerceSite.Shared\obj\Debug\netcoreapp3.1\ECommerceSite.Shared.pdb
+C:\Users\esind\Desktop\ECommerce\ECommerceSite\Shared\ECommerceSite.Shared\bin\Debug\netcoreapp3.1\ECommerceSite.Shared.deps.json
+C:\Users\esind\Desktop\ECommerce\ECommerceSite\Shared\ECommerceSite.Shared\bin\Debug\netcoreapp3.1\ECommerceSite.Shared.dll
+C:\Users\esind\Desktop\ECommerce\ECommerceSite\Shared\ECommerceSite.Shared\bin\Debug\netcoreapp3.1\ECommerceSite.Shared.pdb
+C:\Users\esind\Desktop\ECommerce\ECommerceSite\Shared\ECommerceSite.Shared\obj\Debug\netcoreapp3.1\ECommerceSite.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esind\Desktop\ECommerce\ECommerceSite\Shared\ECommerceSite.Shared\obj\Debug\netcoreapp3.1\ECommerceSite.Shared.AssemblyInfoInputs.cache
+C:\Users\esind\Desktop\ECommerce\ECommerceSite\Shared\ECommerceSite.Shared\obj\Debug\netcoreapp3.1\ECommerceSite.Shared.AssemblyInfo.cs
+C:\Users\esind\Desktop\ECommerce\ECommerceSite\Shared\ECommerceSite.Shared\obj\Debug\netcoreapp3.1\ECommerceSite.Shared.csproj.CoreCompileInputs.cache
+C:\Users\esind\Desktop\ECommerce\ECommerceSite\Shared\ECommerceSite.Shared\obj\Debug\netcoreapp3.1\ECommerceSite.Shared.sourcelink.json
+C:\Users\esind\Desktop\ECommerce\ECommerceSite\Shared\ECommerceSite.Shared\obj\Debug\netcoreapp3.1\ECommerceSite.Shared.dll
+C:\Users\esind\Desktop\ECommerce\ECommerceSite\Shared\ECommerceSite.Shared\obj\Debug\netcoreapp3.1\ECommerceSite.Shared.pdb

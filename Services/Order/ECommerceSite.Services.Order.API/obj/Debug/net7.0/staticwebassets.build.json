@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "K9nH8UkRPamiAuUjVhZeayNkSIO7sEjvfpn4SE16HwA=",
+  "Hash": "Mh3cOi9lqkGe7MVAujYoGh8J4flNt+NR26SWTsvPm6Y=",
   "Source": "ECommerceSite.Services.Order.API",
   "BasePath": "_content/ECommerceSite.Services.Order.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.API\\ECommerceSite.Services.Catalog.API.csproj",
+      "Identity": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.API\\ECommerceSite.Services.Catalog.API.csproj",
       "Version": 2,
       "Source": "ECommerceSite.Services.Catalog.API",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",

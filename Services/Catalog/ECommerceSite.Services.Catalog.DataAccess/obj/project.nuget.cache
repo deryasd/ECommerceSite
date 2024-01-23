@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/6xezjgPKSF4DuR0DKCxjPqI+Lmpe5PkJrZIoZlmhgZ/Hjtc783aujiOWHFrsYtgEqVIveRtYhfEKo6ISBXJsA==",
+  "dgSpecHash": "WPJh7Nz+XJMIztIvUQjxK+8RNcNVSaucoyE1XnWVhM84ycxllj4tiB3F2OLsoXaHnOsCUYyMfuShmzc9d6LaUA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.DataAccess\\ECommerceSite.Services.Catalog.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.DataAccess\\ECommerceSite.Services.Catalog.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\esind\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\esind\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
