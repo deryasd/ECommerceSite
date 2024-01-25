@@ -32,7 +32,6 @@ C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bi
 C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
 C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
 C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
 C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
 C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
@@ -264,3 +263,11 @@ C:\Users\esind\Desktop\ECommerce\ECommerceSite\IdentityServer\ECommmerce.Identit
 C:\Users\esind\Desktop\ECommerce\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\obj\Debug\netcoreapp3.1\ECommmerce.IdentityServer.dll
 C:\Users\esind\Desktop\ECommerce\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\obj\Debug\netcoreapp3.1\ECommmerce.IdentityServer.pdb
 C:\Users\esind\Desktop\ECommerce\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\obj\Debug\netcoreapp3.1\ECommmerce.IdentityServer.genruntimeconfig.cache
+C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Sinks.MongoDB.dll
+C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\esind\Desktop\ECommerceSite\IdentityServer\ECommmerce.IdentityServer\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll

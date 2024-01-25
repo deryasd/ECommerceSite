@@ -17,11 +17,13 @@ namespace ECommerceSite.Services.Order.API.Controllers
         private readonly IMediator _mediator;
         private readonly ISharedIdentityService _sharedIdentityService;
         private readonly ISendEndpointProvider _sendEndpointProvider;
-        public OrdersController(IMediator mediator, ISharedIdentityService sharedIdentityService, ISendEndpointProvider sendEndpointProvider)
+        private readonly ILogger<OrdersController> _logger;
+        public OrdersController(IMediator mediator, ISharedIdentityService sharedIdentityService, ISendEndpointProvider sendEndpointProvider, ILogger<OrdersController> logger)
         {
             _mediator = mediator;
             _sharedIdentityService = sharedIdentityService;
             _sendEndpointProvider = sendEndpointProvider;
+            _logger = logger;
         }
 
         [HttpGet]

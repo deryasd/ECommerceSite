@@ -12,11 +12,12 @@ namespace ECommerceSite.Services.Basket.Controllers
     {
         private readonly IBasketService _basketService;
         private readonly ISharedIdentityService _sharedIdentityService;
-
-        public BasketsController(IBasketService basketService, ISharedIdentityService sharedIdentityService)
+        private readonly ILogger<BasketsController> _logger;
+        public BasketsController(IBasketService basketService, ISharedIdentityService sharedIdentityService, ILogger<BasketsController> logger)
         {
             _basketService = basketService;
             _sharedIdentityService = sharedIdentityService;
+            _logger = logger;
         }
 
         [HttpGet]
