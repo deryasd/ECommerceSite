@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.API\\ECommerceSite.Services.Order.API.csproj": {}
+    "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.API\\ECommerceSite.Services.Order.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.API\\ECommerceSite.Services.Catalog.API.csproj": {
+    "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Basket\\ECommerceSite.Services.Basket.API\\ECommerceSite.Services.Basket.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.API\\ECommerceSite.Services.Catalog.API.csproj",
-        "projectName": "ECommerceSite.Services.Catalog.API",
-        "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.API\\ECommerceSite.Services.Catalog.API.csproj",
+        "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Basket\\ECommerceSite.Services.Basket.API\\ECommerceSite.Services.Basket.API.csproj",
+        "projectName": "ECommerceSite.Services.Basket.API",
+        "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Basket\\ECommerceSite.Services.Basket.API\\ECommerceSite.Services.Basket.API.csproj",
         "packagesPath": "C:\\Users\\esind\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.API\\obj\\",
+        "outputPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Basket\\ECommerceSite.Services.Basket.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\esind\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,99 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.DataAccess\\ECommerceSite.Services.Catalog.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.DataAccess\\ECommerceSite.Services.Catalog.DataAccess.csproj"
+              "C:\\Users\\esind\\Desktop\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj": {
+                "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.1.3, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.7.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.API\\ECommerceSite.Services.Catalog.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.API\\ECommerceSite.Services.Catalog.API.csproj",
+        "projectName": "ECommerceSite.Services.Catalog.API",
+        "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.API\\ECommerceSite.Services.Catalog.API.csproj",
+        "packagesPath": "C:\\Users\\esind\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\esind\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.DataAccess\\ECommerceSite.Services.Catalog.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.DataAccess\\ECommerceSite.Services.Catalog.DataAccess.csproj"
               },
-              "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj": {
-                "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj"
+              "C:\\Users\\esind\\Desktop\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj": {
+                "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj"
               }
             }
           }
@@ -105,14 +193,14 @@
         }
       }
     },
-    "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.DataAccess\\ECommerceSite.Services.Catalog.DataAccess.csproj": {
+    "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.DataAccess\\ECommerceSite.Services.Catalog.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.DataAccess\\ECommerceSite.Services.Catalog.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.DataAccess\\ECommerceSite.Services.Catalog.DataAccess.csproj",
         "projectName": "ECommerceSite.Services.Catalog.DataAccess",
-        "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.DataAccess\\ECommerceSite.Services.Catalog.DataAccess.csproj",
+        "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.DataAccess\\ECommerceSite.Services.Catalog.DataAccess.csproj",
         "packagesPath": "C:\\Users\\esind\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\esind\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -129,8 +217,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.Models\\ECommerceSite.Services.Catalog.Models.csproj": {
-                "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.Models\\ECommerceSite.Services.Catalog.Models.csproj"
+              "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.Models\\ECommerceSite.Services.Catalog.Models.csproj": {
+                "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.Models\\ECommerceSite.Services.Catalog.Models.csproj"
               }
             }
           }
@@ -180,14 +268,14 @@
         }
       }
     },
-    "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.Models\\ECommerceSite.Services.Catalog.Models.csproj": {
+    "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.Models\\ECommerceSite.Services.Catalog.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.Models\\ECommerceSite.Services.Catalog.Models.csproj",
+        "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.Models\\ECommerceSite.Services.Catalog.Models.csproj",
         "projectName": "ECommerceSite.Services.Catalog.Models",
-        "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.Models\\ECommerceSite.Services.Catalog.Models.csproj",
+        "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.Models\\ECommerceSite.Services.Catalog.Models.csproj",
         "packagesPath": "C:\\Users\\esind\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.Models\\obj\\",
+        "outputPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\esind\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -235,14 +323,14 @@
         }
       }
     },
-    "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.API\\ECommerceSite.Services.Order.API.csproj": {
+    "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.API\\ECommerceSite.Services.Order.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.API\\ECommerceSite.Services.Order.API.csproj",
+        "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.API\\ECommerceSite.Services.Order.API.csproj",
         "projectName": "ECommerceSite.Services.Order.API",
-        "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.API\\ECommerceSite.Services.Order.API.csproj",
+        "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.API\\ECommerceSite.Services.Order.API.csproj",
         "packagesPath": "C:\\Users\\esind\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.API\\obj\\",
+        "outputPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\esind\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -259,17 +347,20 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.API\\ECommerceSite.Services.Catalog.API.csproj": {
-                "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.API\\ECommerceSite.Services.Catalog.API.csproj"
+              "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Basket\\ECommerceSite.Services.Basket.API\\ECommerceSite.Services.Basket.API.csproj": {
+                "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Basket\\ECommerceSite.Services.Basket.API\\ECommerceSite.Services.Basket.API.csproj"
               },
-              "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Application\\ECommerceSite.Services.Order.Application.csproj": {
-                "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Application\\ECommerceSite.Services.Order.Application.csproj"
+              "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.API\\ECommerceSite.Services.Catalog.API.csproj": {
+                "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Catalog\\ECommerceSite.Services.Catalog.API\\ECommerceSite.Services.Catalog.API.csproj"
               },
-              "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Infrastructere\\ECommerceSite.Services.Order.Infrastructere.csproj": {
-                "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Infrastructere\\ECommerceSite.Services.Order.Infrastructere.csproj"
+              "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Application\\ECommerceSite.Services.Order.Application.csproj": {
+                "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Application\\ECommerceSite.Services.Order.Application.csproj"
               },
-              "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj": {
-                "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj"
+              "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Infrastructere\\ECommerceSite.Services.Order.Infrastructere.csproj": {
+                "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Infrastructere\\ECommerceSite.Services.Order.Infrastructere.csproj"
+              },
+              "C:\\Users\\esind\\Desktop\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj": {
+                "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj"
               }
             }
           }
@@ -291,6 +382,14 @@
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[12.0.1, )"
+            },
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.1.3, )"
             },
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
@@ -342,14 +441,14 @@
         }
       }
     },
-    "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Application\\ECommerceSite.Services.Order.Application.csproj": {
+    "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Application\\ECommerceSite.Services.Order.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Application\\ECommerceSite.Services.Order.Application.csproj",
+        "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Application\\ECommerceSite.Services.Order.Application.csproj",
         "projectName": "ECommerceSite.Services.Order.Application",
-        "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Application\\ECommerceSite.Services.Order.Application.csproj",
+        "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Application\\ECommerceSite.Services.Order.Application.csproj",
         "packagesPath": "C:\\Users\\esind\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Application\\obj\\",
+        "outputPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\esind\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -366,14 +465,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain\\ECommerceSite.Services.Order.Domain.csproj": {
-                "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain\\ECommerceSite.Services.Order.Domain.csproj"
+              "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain\\ECommerceSite.Services.Order.Domain.csproj": {
+                "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain\\ECommerceSite.Services.Order.Domain.csproj"
               },
-              "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Infrastructere\\ECommerceSite.Services.Order.Infrastructere.csproj": {
-                "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Infrastructere\\ECommerceSite.Services.Order.Infrastructere.csproj"
+              "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Infrastructere\\ECommerceSite.Services.Order.Infrastructere.csproj": {
+                "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Infrastructere\\ECommerceSite.Services.Order.Infrastructere.csproj"
               },
-              "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj": {
-                "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj"
+              "C:\\Users\\esind\\Desktop\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj": {
+                "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj"
               }
             }
           }
@@ -417,14 +516,14 @@
         }
       }
     },
-    "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain.Core\\ECommerceSite.Services.Order.Domain.Core.csproj": {
+    "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain.Core\\ECommerceSite.Services.Order.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain.Core\\ECommerceSite.Services.Order.Domain.Core.csproj",
+        "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain.Core\\ECommerceSite.Services.Order.Domain.Core.csproj",
         "projectName": "ECommerceSite.Services.Order.Domain.Core",
-        "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain.Core\\ECommerceSite.Services.Order.Domain.Core.csproj",
+        "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain.Core\\ECommerceSite.Services.Order.Domain.Core.csproj",
         "packagesPath": "C:\\Users\\esind\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain.Core\\obj\\",
+        "outputPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\esind\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -472,14 +571,14 @@
         }
       }
     },
-    "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain\\ECommerceSite.Services.Order.Domain.csproj": {
+    "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain\\ECommerceSite.Services.Order.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain\\ECommerceSite.Services.Order.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain\\ECommerceSite.Services.Order.Domain.csproj",
         "projectName": "ECommerceSite.Services.Order.Domain",
-        "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain\\ECommerceSite.Services.Order.Domain.csproj",
+        "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain\\ECommerceSite.Services.Order.Domain.csproj",
         "packagesPath": "C:\\Users\\esind\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain\\obj\\",
+        "outputPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\esind\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -496,8 +595,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain.Core\\ECommerceSite.Services.Order.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain.Core\\ECommerceSite.Services.Order.Domain.Core.csproj"
+              "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain.Core\\ECommerceSite.Services.Order.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain.Core\\ECommerceSite.Services.Order.Domain.Core.csproj"
               }
             }
           }
@@ -531,14 +630,14 @@
         }
       }
     },
-    "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Infrastructere\\ECommerceSite.Services.Order.Infrastructere.csproj": {
+    "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Infrastructere\\ECommerceSite.Services.Order.Infrastructere.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Infrastructere\\ECommerceSite.Services.Order.Infrastructere.csproj",
+        "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Infrastructere\\ECommerceSite.Services.Order.Infrastructere.csproj",
         "projectName": "ECommerceSite.Services.Order.Infrastructere",
-        "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Infrastructere\\ECommerceSite.Services.Order.Infrastructere.csproj",
+        "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Infrastructere\\ECommerceSite.Services.Order.Infrastructere.csproj",
         "packagesPath": "C:\\Users\\esind\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Infrastructere\\obj\\",
+        "outputPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Infrastructere\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\esind\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -555,8 +654,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain\\ECommerceSite.Services.Order.Domain.csproj": {
-                "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain\\ECommerceSite.Services.Order.Domain.csproj"
+              "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain\\ECommerceSite.Services.Order.Domain.csproj": {
+                "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Domain\\ECommerceSite.Services.Order.Domain.csproj"
               }
             }
           }
@@ -606,14 +705,14 @@
         }
       }
     },
-    "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj": {
+    "C:\\Users\\esind\\Desktop\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj",
         "projectName": "ECommerceSite.Shared",
-        "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj",
+        "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Shared\\ECommerceSite.Shared\\ECommerceSite.Shared.csproj",
         "packagesPath": "C:\\Users\\esind\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Shared\\ECommerceSite.Shared\\obj\\",
+        "outputPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Shared\\ECommerceSite.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\esind\\AppData\\Roaming\\NuGet\\NuGet.Config",

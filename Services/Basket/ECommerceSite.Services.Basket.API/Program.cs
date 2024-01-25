@@ -2,6 +2,7 @@ using ECommerceSite.Services.Basket.Controllers;
 using ECommerceSite.Services.Basket.Dtos;
 using ECommerceSite.Services.Basket.Services;
 using ECommerceSite.Shared.Services;
+using MassTransit;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc.Authorization;
@@ -11,6 +12,9 @@ using System.IdentityModel.Tokens.Jwt;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
+
+
 var requireAuthorizePolicy = new AuthorizationPolicyBuilder().RequireAuthenticatedUser().Build();
 builder.Services.AddControllers(opt =>
 {

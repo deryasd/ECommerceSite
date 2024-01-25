@@ -12,13 +12,13 @@ namespace ECommerceSite.Services.Order.Application.Commands
 {
     public class CreateOrderCommand : IRequest<Response<CreatedOrderDto>>
     {
-        [Required]
-        public string BuyerId { get; set; }
+            [Required]
+            public string BuyerId { get; set; }
 
-        [Required]
-        public List<OrderItemDto> OrderItems { get; set; }
+            [Required]
+            public List<OrderItemDto> OrderItems { get; set; }
 
-        [Required]
-        public AddressDto Address { get; set; }
+            [Required]
+            public AddressDto Address { get; set; }
     }
 }

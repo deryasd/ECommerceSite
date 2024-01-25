@@ -43,3 +43,13 @@ C:\Users\esind\Desktop\ECommerceSite\Services\Basket\ECommerceSite.Services.Bask
 C:\Users\esind\Desktop\ECommerceSite\Services\Basket\ECommerceSite.Services.Basket.API\obj\Debug\net7.0\ECommerceSite.Services.Basket.API.pdb
 C:\Users\esind\Desktop\ECommerceSite\Services\Basket\ECommerceSite.Services.Basket.API\obj\Debug\net7.0\ECommerceSite.Services.Basket.API.genruntimeconfig.cache
 C:\Users\esind\Desktop\ECommerceSite\Services\Basket\ECommerceSite.Services.Basket.API\obj\Debug\net7.0\ref\ECommerceSite.Services.Basket.API.dll
+C:\Users\esind\Desktop\ECommerceSite\Services\Basket\ECommerceSite.Services.Basket.API\bin\Debug\net7.0\MassTransit.dll
+C:\Users\esind\Desktop\ECommerceSite\Services\Basket\ECommerceSite.Services.Basket.API\bin\Debug\net7.0\MassTransit.Abstractions.dll
+C:\Users\esind\Desktop\ECommerceSite\Services\Basket\ECommerceSite.Services.Basket.API\bin\Debug\net7.0\MassTransit.AspNetCoreIntegration.dll
+C:\Users\esind\Desktop\ECommerceSite\Services\Basket\ECommerceSite.Services.Basket.API\bin\Debug\net7.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\esind\Desktop\ECommerceSite\Services\Basket\ECommerceSite.Services.Basket.API\bin\Debug\net7.0\MassTransit.RabbitMqTransport.dll
+C:\Users\esind\Desktop\ECommerceSite\Services\Basket\ECommerceSite.Services.Basket.API\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\esind\Desktop\ECommerceSite\Services\Basket\ECommerceSite.Services.Basket.API\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\esind\Desktop\ECommerceSite\Services\Basket\ECommerceSite.Services.Basket.API\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\esind\Desktop\ECommerceSite\Services\Basket\ECommerceSite.Services.Basket.API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\esind\Desktop\ECommerceSite\Services\Basket\ECommerceSite.Services.Basket.API\bin\Debug\net7.0\RabbitMQ.Client.dll

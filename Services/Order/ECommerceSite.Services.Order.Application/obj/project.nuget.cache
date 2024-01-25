@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dPumzPVqXiAFi9QjxbgkoeMQ7Dff8xEd4EZy+JCRJlkwugcJLL2BLGSRLK8AoIlT2x0bq1oRPvWatHJYdF0KMA==",
+  "dgSpecHash": "yoelXU+7iteyTvrDCt3b1S6foyo4LHI1cwDjZG3CZR3g+k7HDtC+yg0FB93F/mKc51rNaLW0bYE6zngDfLYauQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Application\\ECommerceSite.Services.Order.Application.csproj",
+  "projectFilePath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Order\\ECommerceSite.Services.Order.Application\\ECommerceSite.Services.Order.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\esind\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\esind\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",

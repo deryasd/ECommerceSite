@@ -9,6 +9,8 @@
   <ItemGroup>
     <PackageReference Include="AutoMapper" Version="12.0.1" />
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="MassTransit.AspNetCore" Version="7.3.1" />
+    <PackageReference Include="MassTransit.RabbitMQ" Version="8.1.3" />
     <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.13" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.0" />
@@ -22,6 +24,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\..\Shared\ECommerceSite.Shared\ECommerceSite.Shared.csproj" />
+    <ProjectReference Include="..\..\Basket\ECommerceSite.Services.Basket.API\ECommerceSite.Services.Basket.API.csproj" />
     <ProjectReference Include="..\..\Catalog\ECommerceSite.Services.Catalog.API\ECommerceSite.Services.Catalog.API.csproj" />
     <ProjectReference Include="..\ECommerceSite.Services.Order.Application\ECommerceSite.Services.Order.Application.csproj" />
     <ProjectReference Include="..\ECommerceSite.Services.Order.Infrastructere\ECommerceSite.Services.Order.Infrastructere.csproj" />

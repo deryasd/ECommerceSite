@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\ECommerceSite.Gateway\\ECommerceSite.Gateway.csproj": {}
+    "C:\\Users\\esind\\Desktop\\ECommerceSite\\ECommerceSite.Gateway\\ECommerceSite.Gateway.csproj": {}
   },
   "projects": {
-    "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\ECommerceSite.Gateway\\ECommerceSite.Gateway.csproj": {
+    "C:\\Users\\esind\\Desktop\\ECommerceSite\\ECommerceSite.Gateway\\ECommerceSite.Gateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\ECommerceSite.Gateway\\ECommerceSite.Gateway.csproj",
+        "projectUniqueName": "C:\\Users\\esind\\Desktop\\ECommerceSite\\ECommerceSite.Gateway\\ECommerceSite.Gateway.csproj",
         "projectName": "ECommerceSite.Gateway",
-        "projectPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\ECommerceSite.Gateway\\ECommerceSite.Gateway.csproj",
+        "projectPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\ECommerceSite.Gateway\\ECommerceSite.Gateway.csproj",
         "packagesPath": "C:\\Users\\esind\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esind\\Desktop\\ECommerce\\ECommerceSite\\ECommerceSite.Gateway\\obj\\",
+        "outputPath": "C:\\Users\\esind\\Desktop\\ECommerceSite\\ECommerceSite.Gateway\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\esind\\AppData\\Roaming\\NuGet\\NuGet.Config",
