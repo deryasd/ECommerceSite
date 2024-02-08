@@ -30,7 +30,7 @@ namespace ECommerceSite.Services.Order.Domain.OrderAggregate
             Address = address;
         }
 
-        public void AddOrderItem(string productId, string productName, decimal price, int quantity)
+        public void AddOrderItem(int productId, string productName, decimal price, int quantity)
         {
             var existProduct = _orderItems.Any(x => x.ProductId == productId);
 

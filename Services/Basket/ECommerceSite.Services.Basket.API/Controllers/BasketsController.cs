@@ -2,6 +2,7 @@
 using ECommerceSite.Services.Basket.Services;
 using ECommerceSite.Shared.ControllerBases;
 using ECommerceSite.Shared.Services;
+using MassTransit;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ECommerceSite.Services.Basket.Controllers
@@ -12,12 +13,14 @@ namespace ECommerceSite.Services.Basket.Controllers
     {
         private readonly IBasketService _basketService;
         private readonly ISharedIdentityService _sharedIdentityService;
+        private readonly ISendEndpointProvider _sendEndpointProvider;
         private readonly ILogger<BasketsController> _logger;
-        public BasketsController(IBasketService basketService, ISharedIdentityService sharedIdentityService, ILogger<BasketsController> logger)
+        public BasketsController(IBasketService basketService, ISharedIdentityService sharedIdentityService, ILogger<BasketsController> logger,ISendEndpointProvider sendEndpointProvider)
         {
             _basketService = basketService;
             _sharedIdentityService = sharedIdentityService;
             _logger = logger;
+            _sendEndpointProvider = sendEndpointProvider;
         }
 
         [HttpGet]

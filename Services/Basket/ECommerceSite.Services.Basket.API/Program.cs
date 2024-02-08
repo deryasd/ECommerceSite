@@ -1,7 +1,11 @@
+using ECommerceSite.Services.Basket.Application.Consumers;
 using ECommerceSite.Services.Basket.Controllers;
+using ECommerceSite.Services.Basket.DataAccess;
 using ECommerceSite.Services.Basket.Dtos;
 using ECommerceSite.Services.Basket.Services;
+using ECommerceSite.Shared.Messages;
 using ECommerceSite.Shared.Services;
+using MassTransit;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc.Authorization;
@@ -15,6 +19,25 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Host.UseSerilog(((ctx, config) => config.ReadFrom.Configuration(ctx.Configuration)));
+
+builder.Services.AddMassTransit(x =>
+{
+    x.AddConsumer<BasketUpdatedEventConsumer>();
+    // Default Port : 5672
+    x.UsingRabbitMq((context, cfg) =>
+    {
+        cfg.Host(builder.Configuration["RabbitMQUrl"], "/", host =>
+        {
+            host.Username("guest");
+            host.Password("guest");
+        });
+
+        cfg.ReceiveEndpoint("basket-updated-event-basket-service", e =>
+        {
+            e.ConfigureConsumer<BasketUpdatedEventConsumer>(context);
+        });
+    });
+});
 
 var requireAuthorizePolicy = new AuthorizationPolicyBuilder().RequireAuthenticatedUser().Build();
 builder.Services.AddControllers(opt =>

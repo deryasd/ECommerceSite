@@ -1,5 +1,4 @@
-﻿using ECommerceSite.Services.Basket.Dtos;
-using ECommerceSite.Services.Order.Application.Commands;
+﻿using ECommerceSite.Services.Order.Application.Commands;
 using ECommerceSite.Services.Order.Application.Queries;
 using ECommerceSite.Shared.ControllerBases;
 using ECommerceSite.Shared.Messages;
@@ -41,8 +40,6 @@ namespace ECommerceSite.Services.Order.API.Controllers
             
             var sendEndpoint = await _sendEndpointProvider.GetSendEndpoint(new Uri("queue:create-order-service"));
 
-            bool isSuccess = false;
-
             var createOrdeMessageCommand = new CreateOrderMessageCommand();
 
             createOrdeMessageCommand.BuyerId = createOrderCommand.BuyerId;
@@ -66,11 +63,6 @@ namespace ECommerceSite.Services.Order.API.Controllers
                     Price = item.Price
                 });
             });
-
-            /*if(createOrdeMessageCommand != null)
-            {
-                 await _basketService.Delete(createOrderCommand.BuyerId);
-            }*/
 
             await sendEndpoint.Send<CreateOrderMessageCommand>(createOrdeMessageCommand);
 

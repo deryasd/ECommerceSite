@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MassTransit.AspNetCore" Version="7.3.1" />
+    <PackageReference Include="MassTransit.RabbitMQ" Version="8.1.3" />
+    <PackageReference Include="System.Collections" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Shared\ECommerceSite.Shared\ECommerceSite.Shared.csproj" />
+    <ProjectReference Include="..\..\Order\ECommerceSite.Services.Order.Domain\ECommerceSite.Services.Order.Domain.csproj" />
+    <ProjectReference Include="..\..\Order\ECommerceSite.Services.Order.Infrastructere\ECommerceSite.Services.Order.Infrastructere.csproj" />
+    <ProjectReference Include="..\ECommerceSite.Services.Catalog.DataAccess\ECommerceSite.Services.Catalog.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>

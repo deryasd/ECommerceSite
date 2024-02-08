@@ -4,7 +4,7 @@ namespace ECommerceSite.Services.Order.Domain.OrderAggregate
 {
     public class OrderItem : Entity
     {
-        public string ProductId { get; private set; }
+        public int ProductId { get; private set; }
         public string ProductName { get; private set; }
         public int Quantity { get; private set; }
         public Decimal Price { get; private set; }
@@ -13,7 +13,7 @@ namespace ECommerceSite.Services.Order.Domain.OrderAggregate
         {
         }
 
-        public OrderItem(string productId, string productName, decimal price, int quantity)
+        public OrderItem(int productId, string productName, decimal price, int quantity)
         {
             ProductId = productId;
             ProductName = productName;

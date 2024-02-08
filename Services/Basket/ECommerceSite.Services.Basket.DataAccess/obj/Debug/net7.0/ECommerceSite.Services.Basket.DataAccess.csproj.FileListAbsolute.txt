@@ -1,0 +1,13 @@
+C:\Users\esind\Desktop\ECommerceSite\Services\Basket\ECommerceSite.Services.Basket.DataAccess\bin\Debug\net7.0\ECommerceSite.Services.Basket.DataAccess.deps.json
+C:\Users\esind\Desktop\ECommerceSite\Services\Basket\ECommerceSite.Services.Basket.DataAccess\bin\Debug\net7.0\ECommerceSite.Services.Basket.DataAccess.dll
+C:\Users\esind\Desktop\ECommerceSite\Services\Basket\ECommerceSite.Services.Basket.DataAccess\bin\Debug\net7.0\ECommerceSite.Services.Basket.DataAccess.pdb
+C:\Users\esind\Desktop\ECommerceSite\Services\Basket\ECommerceSite.Services.Basket.DataAccess\obj\Debug\net7.0\ECommerceSite.Services.Basket.DataAccess.csproj.AssemblyReference.cache
+C:\Users\esind\Desktop\ECommerceSite\Services\Basket\ECommerceSite.Services.Basket.DataAccess\obj\Debug\net7.0\ECommerceSite.Services.Basket.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esind\Desktop\ECommerceSite\Services\Basket\ECommerceSite.Services.Basket.DataAccess\obj\Debug\net7.0\ECommerceSite.Services.Basket.DataAccess.AssemblyInfoInputs.cache
+C:\Users\esind\Desktop\ECommerceSite\Services\Basket\ECommerceSite.Services.Basket.DataAccess\obj\Debug\net7.0\ECommerceSite.Services.Basket.DataAccess.AssemblyInfo.cs
+C:\Users\esind\Desktop\ECommerceSite\Services\Basket\ECommerceSite.Services.Basket.DataAccess\obj\Debug\net7.0\ECommerceSite.Services.Basket.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\esind\Desktop\ECommerceSite\Services\Basket\ECommerceSite.Services.Basket.DataAccess\obj\Debug\net7.0\ECommerceSite.Services.Basket.DataAccess.sourcelink.json
+C:\Users\esind\Desktop\ECommerceSite\Services\Basket\ECommerceSite.Services.Basket.DataAccess\obj\Debug\net7.0\ECommerceSite.Services.Basket.DataAccess.dll
+C:\Users\esind\Desktop\ECommerceSite\Services\Basket\ECommerceSite.Services.Basket.DataAccess\obj\Debug\net7.0\refint\ECommerceSite.Services.Basket.DataAccess.dll
+C:\Users\esind\Desktop\ECommerceSite\Services\Basket\ECommerceSite.Services.Basket.DataAccess\obj\Debug\net7.0\ECommerceSite.Services.Basket.DataAccess.pdb
+C:\Users\esind\Desktop\ECommerceSite\Services\Basket\ECommerceSite.Services.Basket.DataAccess\obj\Debug\net7.0\ref\ECommerceSite.Services.Basket.DataAccess.dll

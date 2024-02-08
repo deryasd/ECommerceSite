@@ -1,11 +1,23 @@
 {
   "Version": 1,
-  "Hash": "AMlfhecz4UvLvijKNnfR3gJZfiUmpQLwIrr+dUo+5DU=",
+  "Hash": "4bBCRwA/NGirUparETYTqHWzwAtIZsETszgKYDOSBqw=",
   "Source": "ECommerceSite.Services.Catalog.API",
   "BasePath": "_content/ECommerceSite.Services.Catalog.API",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\esind\\Desktop\\ECommerceSite\\Services\\Basket\\ECommerceSite.Services.Basket.API\\ECommerceSite.Services.Basket.API.csproj",
+      "Version": 2,
+      "Source": "ECommerceSite.Services.Basket.API",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
   "DiscoveryPatterns": [],
   "Assets": []
 }
